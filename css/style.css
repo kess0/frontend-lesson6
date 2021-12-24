@@ -1,0 +1,107 @@
+h1 {
+    text-align: center;
+    font-size: 18px;
+    font-family: myriad-pro, sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.article {
+    display: flex;
+    padding: 10px;
+    border: 1px solid #006837;
+    justify-content: space-between;
+    background-color: #56836F;
+}
+
+.nav-ul {
+    font-family: myriad-pro, sans-serif;
+    font-size: 48px;
+    color: white;
+    display: inline-block;
+}
+
+
+.nav-li {
+    display: inline-block;
+    float: left;
+    margin-left: 60px;
+    align-items: center;
+}
+
+.container1 {
+    background-color: #FCEE21;
+    width: 617px;
+    padding: 10px;
+    justify-content: space-between;
+    border: 1px solid #707070;
+    display: inline-block;
+}
+
+.containerImage {
+    width: 200px;
+    display: inline-block;
+    border: 1px solid black;
+    }
+    
+.containerText {
+    font-family: 'Segoe UI', sans-serif;
+    width: 400px;
+    display: inline-block;
+    vertical-align: top;
+    padding-left: 20px;
+    margin-left: 30px;
+    text-transform: uppercase;
+    }
+    
+.containerImage {
+    width: 200px;
+    display: inline-block;
+    border: 1px solid black;
+    float: right;
+    }
+
+.containerImage1 {
+    width: 200px;
+    display: inline-block;
+    border: 1px solid black;
+    float: left;
+    }
+        
+.containerText1 {
+    font-family: 'Segoe UI', sans-serif;
+    width: 400px;
+    color: #56836F;
+    display: inline-block;
+    vertical-align: top;
+    padding-left: 20px;
+    margin-left: 30px;
+    text-transform: uppercase;
+    }
+
+.logo {
+    width: 201px;
+    height: 151px;
+    float: right;
+    -o-object-fit: contain;
+       object-fit: contain;
+    margin-left: 100px;
+}
+
+.container2 {
+    background-color: #FCEE21;
+    width: 617px;
+    padding: 10px;
+    justify-content: space-between;
+    border: 1px solid #707070;
+    display: inline-block;
+}
+
+.container3 {
+    background-color: #FCEE21;
+    width: 617px;
+    padding: 10px;
+    justify-content: space-between;
+    border: 1px solid #707070;
+    display: inline-block;
+}
