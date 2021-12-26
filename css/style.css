@@ -11,7 +11,7 @@ h1 {
     border: 1px solid #006837;
     justify-content: space-between;
     background-color: #56836F;
-    width: 1245px;
+    width: 1310px;
     margin-left: 40px;
     margin-right: 40px;
 }
@@ -32,6 +32,11 @@ nav {
     margin-left: 60px;
     align-items: center;
     display: inline-block;
+}
+
+a {
+    text-decoration: none;
+    color: #ffffff;
 }
 
 .grid {
