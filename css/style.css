@@ -117,5 +117,5 @@ a {
 
 @font-face {
     font-family: 'Segoe UI';
-    src: url('/fonts/segoeui.ttf') format('truetype'), /* Safari, Android, iOS */
+    src: url('./fonts/segoeui.ttf') format('truetype'), /* Safari, Android, iOS */
 }
