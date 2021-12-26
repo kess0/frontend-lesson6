@@ -114,8 +114,3 @@ a {
        object-fit: contain;
     margin-left: 100px;
 }
-
-@font-face {
-    font-family: 'Segoe UI';
-    src: url('./fonts/segoeui.ttf') format('truetype'), /* Safari, Android, iOS */
-}
