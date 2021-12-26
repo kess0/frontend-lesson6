@@ -17,7 +17,7 @@ h1 {
 }
 
 nav {
-    display: inline-block;
+    display: flex;
 }
 
 .nav-ul {
