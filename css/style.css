@@ -8,7 +8,7 @@ h1 {
 .page {
     display: inline-block;
     padding: 10px;
-    border: 1px solid #006837;
+    border: 3px solid #006837;
     justify-content: space-between;
     background-color: #56836F;
     width: 1310px;
@@ -43,10 +43,10 @@ a {
     display: grid;
     width: 1200px;
     grid-template-columns: 1fr 1fr;
-    grid-template-rows: 0.5fr 0.5fr;
+    grid-template-rows: 330px 450px 230px;
     grid-column-gap: 10px;
-    grid-row-gap: 20px;
-    padding: 20px;
+    grid-row-gap: 15px;
+    padding: 50px;
 }
 
 .container1 {
